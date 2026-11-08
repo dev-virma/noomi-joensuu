@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dev-virma.github.io/noomi-sivut/sitemap.xml
+Sitemap: https://dev-virma.github.io/noomi-joensuu/sitemap.xml
